@@ -20,10 +20,11 @@ module KnightsTravails
       results = []
       movement.each do |move|
         new_position = calculate_new_position(move, position)
-        if new_position.valid?
-          results << Knight.new(position: new_position,
-                                board: board)
-        end
+        next unless new_position.valid?
+
+        results << Knight.new(team: team,
+                              position: new_position,
+                              board: board)
       end
       results
     end

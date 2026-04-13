@@ -6,17 +6,15 @@ module KnightsTravails
     attr_accessor :container
 
     def initialize
-      @container = {}
+      @container = []
     end
 
     def visit(node)
-      container[node] = 'been here.'
+      container << node
     end
 
     def visited?(node)
-      return true if container.key?(node)
-
-      false
+      container.any?(node)
     end
   end
 end
