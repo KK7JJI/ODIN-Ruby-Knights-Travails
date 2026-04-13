@@ -40,6 +40,7 @@ module KnightsTravails
         msg << node.state
         node = node.parent
       end
+      msg << node.state
       puts msg.reverse.join("\n")
     end
   end
