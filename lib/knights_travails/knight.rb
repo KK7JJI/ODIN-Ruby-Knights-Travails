@@ -13,13 +13,14 @@ module KnightsTravails
         [2, 1], [2, -1],
         [-2, 1], [-2, -1]
       ]
+      @positioncodes = PositionCoding.new
     end
 
     def next_states
       results = []
       movement.each do |move|
         new_position = calculate_new_position(move, position)
-        if board.on_board?(new_position)
+        if new_position.valid?
           results << Knight.new(position: new_position,
                                 board: board)
         end
@@ -29,14 +30,14 @@ module KnightsTravails
 
     private
 
-    attr_accessor :movement
+    attr_accessor :movement, :positioncodes
 
     def calculate_new_position(move, position)
-      cur_rank, cur_file = position.pos
-      new_rank = cur_rank + move[0]
-      new_file = cur_file + (move[1] * direction)
-
-      Position.new(rank: new_rank, file: new_file)
+      cur_file, cur_rank = position.to_a
+      new_pos = []
+      new_pos << (cur_file + (move[1] * direction))
+      new_pos << (cur_rank + move[0])
+      Position.new(board_pos: positioncodes.encoder[new_pos])
     end
   end
 end

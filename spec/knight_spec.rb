@@ -5,11 +5,11 @@ require_relative '../lib/knights_travails'
 describe KnightsTravails::Knight do
   subject(:knight) { KnightsTravails::Knight.new }
   let(:board) { KnightsTravails::ChessBoard.new }
-  let(:pos1) { KnightsTravails::Position.new(rank: 0, file: 0) }
-  let(:pos2) { KnightsTravails::Position.new(rank: 0, file: 7) }
-  let(:pos3) { KnightsTravails::Position.new(rank: 7, file: 0) }
-  let(:pos4) { KnightsTravails::Position.new(rank: 7, file: 7) }
-  let(:pos5) { KnightsTravails::Position.new(rank: 4, file: 3) }
+  let(:pos1) { KnightsTravails::Position.new(board_pos: 'a1') }
+  let(:pos2) { KnightsTravails::Position.new(board_pos: 'h1') }
+  let(:pos3) { KnightsTravails::Position.new(board_pos: 'a8') }
+  let(:pos4) { KnightsTravails::Position.new(board_pos: 'h8') }
+  let(:pos5) { KnightsTravails::Position.new(board_pos: 'd5') }
 
   describe '#next_states' do
     before do

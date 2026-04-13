@@ -21,10 +21,7 @@ module KnightsTravails
     end
 
     def on_board?(position)
-      return false if position.rank.negative?
-      return false if position.rank >= board.length
-      return false if position.file.negative?
-      return false if position.file >= board.length
+      return false if position.valid?
 
       true
     end

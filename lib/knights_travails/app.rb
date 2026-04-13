@@ -3,8 +3,9 @@
 module KnightsTravails
   # main program entry point.
   class App
-    def run(_args)
-      puts 'Nothing implemented yet.'
+    def run(args)
+      start = args[0]
+      goal = args[1]
     end
   end
 end

@@ -2,37 +2,48 @@
 
 # project namespace
 module KnightsTravails
-  FILE = (0...8).to_a.map { |item| ('a'.ord + item).chr }
-
-  # describes a row, col location
+  # describes locations on a chess board
   class Position
-    attr_accessor :rank, :file
+    attr_accessor :board_pos, :positioncodes
 
-    def initialize(file: 0, rank: 0)
-      @file = file
-      @rank = rank
+    def initialize(board_pos: nil)
+      @board_pos = board_pos
+      @positioncodes = PositionCoding.new
     end
 
-    def pos
-      [rank, file]
+    def file
+      positioncodes.decoder[board_pos][:my_file]
+    end
+
+    def rank
+      positioncodes.decoder[board_pos][:my_rank]
+    end
+
+    def to_a
+      [file, rank]
     end
 
     def to_h
-      key = "#{FILE[file]}#{rank + 1}"
+      key = board_pos.to_s
       { key => { file: file, rank: rank } }
+    end
+
+    def valid?
+      return true if positioncodes.decoder[board_pos]
+
+      false
     end
 
     def ==(other)
       return false unless other
       return false unless other.is_a?(Position)
-      return false unless file == other.file
-      return false unless rank == other.rank
+      return false unless board_pos == other.board_pos
 
       true
     end
 
     def to_s
-      "#{FILE[file]}#{rank + 1} => rank: #{rank + 1}, file: #{file + 1}"
+      "#{board_pos} => rank: #{rank + 1}, file: #{file + 1}"
     end
   end
 end
