@@ -9,7 +9,8 @@ module KnightsTravails
 
       bfs = BFS.new(start: start, goal: goal)
       solution = bfs.execute
-      puts solution.inspect
+
+      render_solution(solution) if solution
     end
 
     def assign_start_position(start)
@@ -30,6 +31,16 @@ module KnightsTravails
       end
 
       nil
+    end
+
+    def render_solution(solution)
+      node = solution
+      msg = []
+      until node.parent.nil?
+        msg << node.state
+        node = node.parent
+      end
+      puts msg.reverse.join("\n")
     end
   end
 end

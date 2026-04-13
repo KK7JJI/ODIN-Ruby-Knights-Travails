@@ -17,7 +17,6 @@ module KnightsTravails
 
       until queue.empty?
         node = queue.pop
-        puts node.state
         visited.visit(node)
         return node if node.state == goal
 
