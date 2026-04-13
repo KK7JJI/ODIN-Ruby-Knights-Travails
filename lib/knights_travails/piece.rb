@@ -9,7 +9,7 @@ module KnightsTravails
 
   # a generic chess piece, abstract class.
   class ChessPiece
-    attr_accessor :description, :position, :board
+    attr_accessor :description, :position, :board, :team
 
     def initialize(team: 0, position: nil, board: nil)
       @description = 'U'
@@ -25,7 +25,17 @@ module KnightsTravails
     end
 
     def to_s
-      "#{description}, #{position}"
+      "#{description}: Location = #{position}"
+    end
+
+    def ==(other)
+      return false unless other
+      return false unless other.is_a?(ChessPiece)
+      return false unless team == other.team
+      return false unless description == other.description
+      return false unless position == other.position
+
+      true
     end
 
     private

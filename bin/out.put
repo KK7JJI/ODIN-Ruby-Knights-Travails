@@ -1,0 +1,2205 @@
+File: knights_travails.rb, Running method: run
+new position
+K: Location = a1 => rank: 1, file: 1
+
+next positions
+K: Location = c2 => rank: 2, file: 3
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = c2 => rank: 2, file: 3
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = e1 => rank: 1, file: 5
+K: Location = a1 => rank: 1, file: 1
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = b3 => rank: 3, file: 2
+
+next positions
+K: Location = d4 => rank: 4, file: 4
+K: Location = d2 => rank: 2, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+K: Location = c1 => rank: 1, file: 3
+K: Location = a1 => rank: 1, file: 1
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = a3 => rank: 3, file: 1
+
+next positions
+K: Location = c4 => rank: 4, file: 3
+K: Location = c2 => rank: 2, file: 3
+K: Location = b5 => rank: 5, file: 2
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = e1 => rank: 1, file: 5
+
+next positions
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = a1 => rank: 1, file: 1
+
+next positions
+K: Location = c2 => rank: 2, file: 3
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = b4 => rank: 4, file: 2
+
+next positions
+K: Location = d5 => rank: 5, file: 4
+K: Location = d3 => rank: 3, file: 4
+K: Location = c6 => rank: 6, file: 3
+K: Location = a6 => rank: 6, file: 1
+K: Location = c2 => rank: 2, file: 3
+K: Location = a2 => rank: 2, file: 1
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = d2 => rank: 2, file: 4
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = f1 => rank: 1, file: 6
+K: Location = b1 => rank: 1, file: 2
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = c5 => rank: 5, file: 3
+
+next positions
+K: Location = e6 => rank: 6, file: 5
+K: Location = a6 => rank: 6, file: 1
+K: Location = e4 => rank: 4, file: 5
+K: Location = a4 => rank: 4, file: 1
+K: Location = d7 => rank: 7, file: 4
+K: Location = b7 => rank: 7, file: 2
+K: Location = d3 => rank: 3, file: 4
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = a5 => rank: 5, file: 1
+
+next positions
+K: Location = c6 => rank: 6, file: 3
+K: Location = c4 => rank: 4, file: 3
+K: Location = b7 => rank: 7, file: 2
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = c1 => rank: 1, file: 3
+
+next positions
+K: Location = e2 => rank: 2, file: 5
+K: Location = a2 => rank: 2, file: 1
+K: Location = d3 => rank: 3, file: 4
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = a1 => rank: 1, file: 1
+
+next positions
+K: Location = c2 => rank: 2, file: 3
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = g4 => rank: 4, file: 7
+
+next positions
+K: Location = e5 => rank: 5, file: 5
+K: Location = e3 => rank: 3, file: 5
+K: Location = h6 => rank: 6, file: 8
+K: Location = f6 => rank: 6, file: 6
+K: Location = h2 => rank: 2, file: 8
+K: Location = f2 => rank: 2, file: 6
+
+new position
+K: Location = c4 => rank: 4, file: 3
+
+next positions
+K: Location = e5 => rank: 5, file: 5
+K: Location = a5 => rank: 5, file: 1
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = d6 => rank: 6, file: 4
+K: Location = b6 => rank: 6, file: 2
+K: Location = d2 => rank: 2, file: 4
+K: Location = b2 => rank: 2, file: 2
+
+new position
+K: Location = g2 => rank: 2, file: 7
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = e1 => rank: 1, file: 5
+K: Location = h4 => rank: 4, file: 8
+K: Location = f4 => rank: 4, file: 6
+
+new position
+K: Location = c2 => rank: 2, file: 3
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = e1 => rank: 1, file: 5
+K: Location = a1 => rank: 1, file: 1
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = f5 => rank: 5, file: 6
+
+next positions
+K: Location = h6 => rank: 6, file: 8
+K: Location = d6 => rank: 6, file: 4
+K: Location = h4 => rank: 4, file: 8
+K: Location = d4 => rank: 4, file: 4
+K: Location = g7 => rank: 7, file: 7
+K: Location = e7 => rank: 7, file: 5
+K: Location = g3 => rank: 3, file: 7
+K: Location = e3 => rank: 3, file: 5
+
+new position
+K: Location = d5 => rank: 5, file: 4
+
+next positions
+K: Location = f6 => rank: 6, file: 6
+K: Location = b6 => rank: 6, file: 2
+K: Location = f4 => rank: 4, file: 6
+K: Location = b4 => rank: 4, file: 2
+K: Location = e7 => rank: 7, file: 5
+K: Location = c7 => rank: 7, file: 3
+K: Location = e3 => rank: 3, file: 5
+K: Location = c3 => rank: 3, file: 3
+
+new position
+K: Location = f1 => rank: 1, file: 6
+
+next positions
+K: Location = h2 => rank: 2, file: 8
+K: Location = d2 => rank: 2, file: 4
+K: Location = g3 => rank: 3, file: 7
+K: Location = e3 => rank: 3, file: 5
+
+new position
+K: Location = d1 => rank: 1, file: 4
+
+next positions
+K: Location = f2 => rank: 2, file: 6
+K: Location = b2 => rank: 2, file: 2
+K: Location = e3 => rank: 3, file: 5
+K: Location = c3 => rank: 3, file: 3
+
+new position
+K: Location = c4 => rank: 4, file: 3
+
+next positions
+K: Location = e5 => rank: 5, file: 5
+K: Location = a5 => rank: 5, file: 1
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = d6 => rank: 6, file: 4
+K: Location = b6 => rank: 6, file: 2
+K: Location = d2 => rank: 2, file: 4
+K: Location = b2 => rank: 2, file: 2
+
+new position
+K: Location = c2 => rank: 2, file: 3
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = e1 => rank: 1, file: 5
+K: Location = a1 => rank: 1, file: 1
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = b5 => rank: 5, file: 2
+
+next positions
+K: Location = d6 => rank: 6, file: 4
+K: Location = d4 => rank: 4, file: 4
+K: Location = c7 => rank: 7, file: 3
+K: Location = a7 => rank: 7, file: 1
+K: Location = c3 => rank: 3, file: 3
+K: Location = a3 => rank: 3, file: 1
+
+new position
+K: Location = b1 => rank: 1, file: 2
+
+next positions
+K: Location = d2 => rank: 2, file: 4
+K: Location = c3 => rank: 3, file: 3
+K: Location = a3 => rank: 3, file: 1
+
+new position
+K: Location = g2 => rank: 2, file: 7
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = e1 => rank: 1, file: 5
+K: Location = h4 => rank: 4, file: 8
+K: Location = f4 => rank: 4, file: 6
+
+new position
+K: Location = c2 => rank: 2, file: 3
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = e1 => rank: 1, file: 5
+K: Location = a1 => rank: 1, file: 1
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = f3 => rank: 3, file: 6
+
+next positions
+K: Location = h4 => rank: 4, file: 8
+K: Location = d4 => rank: 4, file: 4
+K: Location = h2 => rank: 2, file: 8
+K: Location = d2 => rank: 2, file: 4
+K: Location = g5 => rank: 5, file: 7
+K: Location = e5 => rank: 5, file: 5
+K: Location = g1 => rank: 1, file: 7
+K: Location = e1 => rank: 1, file: 5
+
+new position
+K: Location = d3 => rank: 3, file: 4
+
+next positions
+K: Location = f4 => rank: 4, file: 6
+K: Location = b4 => rank: 4, file: 2
+K: Location = f2 => rank: 2, file: 6
+K: Location = b2 => rank: 2, file: 2
+K: Location = e5 => rank: 5, file: 5
+K: Location = c5 => rank: 5, file: 3
+K: Location = e1 => rank: 1, file: 5
+K: Location = c1 => rank: 1, file: 3
+
+new position
+K: Location = c2 => rank: 2, file: 3
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = e1 => rank: 1, file: 5
+K: Location = a1 => rank: 1, file: 1
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = b3 => rank: 3, file: 2
+
+next positions
+K: Location = d4 => rank: 4, file: 4
+K: Location = d2 => rank: 2, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+K: Location = c1 => rank: 1, file: 3
+K: Location = a1 => rank: 1, file: 1
+
+new position
+K: Location = f5 => rank: 5, file: 6
+
+next positions
+K: Location = h6 => rank: 6, file: 8
+K: Location = d6 => rank: 6, file: 4
+K: Location = h4 => rank: 4, file: 8
+K: Location = d4 => rank: 4, file: 4
+K: Location = g7 => rank: 7, file: 7
+K: Location = e7 => rank: 7, file: 5
+K: Location = g3 => rank: 3, file: 7
+K: Location = e3 => rank: 3, file: 5
+
+new position
+K: Location = b5 => rank: 5, file: 2
+
+next positions
+K: Location = d6 => rank: 6, file: 4
+K: Location = d4 => rank: 4, file: 4
+K: Location = c7 => rank: 7, file: 3
+K: Location = a7 => rank: 7, file: 1
+K: Location = c3 => rank: 3, file: 3
+K: Location = a3 => rank: 3, file: 1
+
+new position
+K: Location = f3 => rank: 3, file: 6
+
+next positions
+K: Location = h4 => rank: 4, file: 8
+K: Location = d4 => rank: 4, file: 4
+K: Location = h2 => rank: 2, file: 8
+K: Location = d2 => rank: 2, file: 4
+K: Location = g5 => rank: 5, file: 7
+K: Location = e5 => rank: 5, file: 5
+K: Location = g1 => rank: 1, file: 7
+K: Location = e1 => rank: 1, file: 5
+
+new position
+K: Location = b3 => rank: 3, file: 2
+
+next positions
+K: Location = d4 => rank: 4, file: 4
+K: Location = d2 => rank: 2, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+K: Location = c1 => rank: 1, file: 3
+K: Location = a1 => rank: 1, file: 1
+
+new position
+K: Location = e6 => rank: 6, file: 5
+
+next positions
+K: Location = g7 => rank: 7, file: 7
+K: Location = c7 => rank: 7, file: 3
+K: Location = g5 => rank: 5, file: 7
+K: Location = c5 => rank: 5, file: 3
+K: Location = f8 => rank: 8, file: 6
+K: Location = d8 => rank: 8, file: 4
+K: Location = f4 => rank: 4, file: 6
+K: Location = d4 => rank: 4, file: 4
+
+new position
+K: Location = c6 => rank: 6, file: 3
+
+next positions
+K: Location = e7 => rank: 7, file: 5
+K: Location = a7 => rank: 7, file: 1
+K: Location = e5 => rank: 5, file: 5
+K: Location = a5 => rank: 5, file: 1
+K: Location = d8 => rank: 8, file: 4
+K: Location = b8 => rank: 8, file: 2
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = e2 => rank: 2, file: 5
+
+next positions
+K: Location = g3 => rank: 3, file: 7
+K: Location = c3 => rank: 3, file: 3
+K: Location = g1 => rank: 1, file: 7
+K: Location = c1 => rank: 1, file: 3
+K: Location = f4 => rank: 4, file: 6
+K: Location = d4 => rank: 4, file: 4
+
+new position
+K: Location = c2 => rank: 2, file: 3
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = e1 => rank: 1, file: 5
+K: Location = a1 => rank: 1, file: 1
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = d5 => rank: 5, file: 4
+
+next positions
+K: Location = f6 => rank: 6, file: 6
+K: Location = b6 => rank: 6, file: 2
+K: Location = f4 => rank: 4, file: 6
+K: Location = b4 => rank: 4, file: 2
+K: Location = e7 => rank: 7, file: 5
+K: Location = c7 => rank: 7, file: 3
+K: Location = e3 => rank: 3, file: 5
+K: Location = c3 => rank: 3, file: 3
+
+new position
+K: Location = d3 => rank: 3, file: 4
+
+next positions
+K: Location = f4 => rank: 4, file: 6
+K: Location = b4 => rank: 4, file: 2
+K: Location = f2 => rank: 2, file: 6
+K: Location = b2 => rank: 2, file: 2
+K: Location = e5 => rank: 5, file: 5
+K: Location = c5 => rank: 5, file: 3
+K: Location = e1 => rank: 1, file: 5
+K: Location = c1 => rank: 1, file: 3
+
+new position
+K: Location = c6 => rank: 6, file: 3
+
+next positions
+K: Location = e7 => rank: 7, file: 5
+K: Location = a7 => rank: 7, file: 1
+K: Location = e5 => rank: 5, file: 5
+K: Location = a5 => rank: 5, file: 1
+K: Location = d8 => rank: 8, file: 4
+K: Location = b8 => rank: 8, file: 2
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = a6 => rank: 6, file: 1
+
+next positions
+K: Location = c7 => rank: 7, file: 3
+K: Location = c5 => rank: 5, file: 3
+K: Location = b8 => rank: 8, file: 2
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = c2 => rank: 2, file: 3
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = e1 => rank: 1, file: 5
+K: Location = a1 => rank: 1, file: 1
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = a2 => rank: 2, file: 1
+
+next positions
+K: Location = c3 => rank: 3, file: 3
+K: Location = c1 => rank: 1, file: 3
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = f5 => rank: 5, file: 6
+
+next positions
+K: Location = h6 => rank: 6, file: 8
+K: Location = d6 => rank: 6, file: 4
+K: Location = h4 => rank: 4, file: 8
+K: Location = d4 => rank: 4, file: 4
+K: Location = g7 => rank: 7, file: 7
+K: Location = e7 => rank: 7, file: 5
+K: Location = g3 => rank: 3, file: 7
+K: Location = e3 => rank: 3, file: 5
+
+new position
+K: Location = b5 => rank: 5, file: 2
+
+next positions
+K: Location = d6 => rank: 6, file: 4
+K: Location = d4 => rank: 4, file: 4
+K: Location = c7 => rank: 7, file: 3
+K: Location = a7 => rank: 7, file: 1
+K: Location = c3 => rank: 3, file: 3
+K: Location = a3 => rank: 3, file: 1
+
+new position
+K: Location = f3 => rank: 3, file: 6
+
+next positions
+K: Location = h4 => rank: 4, file: 8
+K: Location = d4 => rank: 4, file: 4
+K: Location = h2 => rank: 2, file: 8
+K: Location = d2 => rank: 2, file: 4
+K: Location = g5 => rank: 5, file: 7
+K: Location = e5 => rank: 5, file: 5
+K: Location = g1 => rank: 1, file: 7
+K: Location = e1 => rank: 1, file: 5
+
+new position
+K: Location = b3 => rank: 3, file: 2
+
+next positions
+K: Location = d4 => rank: 4, file: 4
+K: Location = d2 => rank: 2, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+K: Location = c1 => rank: 1, file: 3
+K: Location = a1 => rank: 1, file: 1
+
+new position
+K: Location = e6 => rank: 6, file: 5
+
+next positions
+K: Location = g7 => rank: 7, file: 7
+K: Location = c7 => rank: 7, file: 3
+K: Location = g5 => rank: 5, file: 7
+K: Location = c5 => rank: 5, file: 3
+K: Location = f8 => rank: 8, file: 6
+K: Location = d8 => rank: 8, file: 4
+K: Location = f4 => rank: 4, file: 6
+K: Location = d4 => rank: 4, file: 4
+
+new position
+K: Location = c6 => rank: 6, file: 3
+
+next positions
+K: Location = e7 => rank: 7, file: 5
+K: Location = a7 => rank: 7, file: 1
+K: Location = e5 => rank: 5, file: 5
+K: Location = a5 => rank: 5, file: 1
+K: Location = d8 => rank: 8, file: 4
+K: Location = b8 => rank: 8, file: 2
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = e2 => rank: 2, file: 5
+
+next positions
+K: Location = g3 => rank: 3, file: 7
+K: Location = c3 => rank: 3, file: 3
+K: Location = g1 => rank: 1, file: 7
+K: Location = c1 => rank: 1, file: 3
+K: Location = f4 => rank: 4, file: 6
+K: Location = d4 => rank: 4, file: 4
+
+new position
+K: Location = c2 => rank: 2, file: 3
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = e1 => rank: 1, file: 5
+K: Location = a1 => rank: 1, file: 1
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = f3 => rank: 3, file: 6
+
+next positions
+K: Location = h4 => rank: 4, file: 8
+K: Location = d4 => rank: 4, file: 4
+K: Location = h2 => rank: 2, file: 8
+K: Location = d2 => rank: 2, file: 4
+K: Location = g5 => rank: 5, file: 7
+K: Location = e5 => rank: 5, file: 5
+K: Location = g1 => rank: 1, file: 7
+K: Location = e1 => rank: 1, file: 5
+
+new position
+K: Location = b3 => rank: 3, file: 2
+
+next positions
+K: Location = d4 => rank: 4, file: 4
+K: Location = d2 => rank: 2, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+K: Location = c1 => rank: 1, file: 3
+K: Location = a1 => rank: 1, file: 1
+
+new position
+K: Location = f1 => rank: 1, file: 6
+
+next positions
+K: Location = h2 => rank: 2, file: 8
+K: Location = d2 => rank: 2, file: 4
+K: Location = g3 => rank: 3, file: 7
+K: Location = e3 => rank: 3, file: 5
+
+new position
+K: Location = b1 => rank: 1, file: 2
+
+next positions
+K: Location = d2 => rank: 2, file: 4
+K: Location = c3 => rank: 3, file: 3
+K: Location = a3 => rank: 3, file: 1
+
+new position
+K: Location = e4 => rank: 4, file: 5
+
+next positions
+K: Location = g5 => rank: 5, file: 7
+K: Location = c5 => rank: 5, file: 3
+K: Location = g3 => rank: 3, file: 7
+K: Location = c3 => rank: 3, file: 3
+K: Location = f6 => rank: 6, file: 6
+K: Location = d6 => rank: 6, file: 4
+K: Location = f2 => rank: 2, file: 6
+K: Location = d2 => rank: 2, file: 4
+
+new position
+K: Location = c4 => rank: 4, file: 3
+
+next positions
+K: Location = e5 => rank: 5, file: 5
+K: Location = a5 => rank: 5, file: 1
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = d6 => rank: 6, file: 4
+K: Location = b6 => rank: 6, file: 2
+K: Location = d2 => rank: 2, file: 4
+K: Location = b2 => rank: 2, file: 2
+
+new position
+K: Location = e6 => rank: 6, file: 5
+
+next positions
+K: Location = g7 => rank: 7, file: 7
+K: Location = c7 => rank: 7, file: 3
+K: Location = g5 => rank: 5, file: 7
+K: Location = c5 => rank: 5, file: 3
+K: Location = f8 => rank: 8, file: 6
+K: Location = d8 => rank: 8, file: 4
+K: Location = f4 => rank: 4, file: 6
+K: Location = d4 => rank: 4, file: 4
+
+new position
+K: Location = a6 => rank: 6, file: 1
+
+next positions
+K: Location = c7 => rank: 7, file: 3
+K: Location = c5 => rank: 5, file: 3
+K: Location = b8 => rank: 8, file: 2
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = e4 => rank: 4, file: 5
+
+next positions
+K: Location = g5 => rank: 5, file: 7
+K: Location = c5 => rank: 5, file: 3
+K: Location = g3 => rank: 3, file: 7
+K: Location = c3 => rank: 3, file: 3
+K: Location = f6 => rank: 6, file: 6
+K: Location = d6 => rank: 6, file: 4
+K: Location = f2 => rank: 2, file: 6
+K: Location = d2 => rank: 2, file: 4
+
+new position
+K: Location = a4 => rank: 4, file: 1
+
+next positions
+K: Location = c5 => rank: 5, file: 3
+K: Location = c3 => rank: 3, file: 3
+K: Location = b6 => rank: 6, file: 2
+K: Location = b2 => rank: 2, file: 2
+
+new position
+K: Location = d7 => rank: 7, file: 4
+
+next positions
+K: Location = f8 => rank: 8, file: 6
+K: Location = b8 => rank: 8, file: 2
+K: Location = f6 => rank: 6, file: 6
+K: Location = b6 => rank: 6, file: 2
+K: Location = e5 => rank: 5, file: 5
+K: Location = c5 => rank: 5, file: 3
+
+new position
+K: Location = b7 => rank: 7, file: 2
+
+next positions
+K: Location = d8 => rank: 8, file: 4
+K: Location = d6 => rank: 6, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+
+new position
+K: Location = d3 => rank: 3, file: 4
+
+next positions
+K: Location = f4 => rank: 4, file: 6
+K: Location = b4 => rank: 4, file: 2
+K: Location = f2 => rank: 2, file: 6
+K: Location = b2 => rank: 2, file: 2
+K: Location = e5 => rank: 5, file: 5
+K: Location = c5 => rank: 5, file: 3
+K: Location = e1 => rank: 1, file: 5
+K: Location = c1 => rank: 1, file: 3
+
+new position
+K: Location = b3 => rank: 3, file: 2
+
+next positions
+K: Location = d4 => rank: 4, file: 4
+K: Location = d2 => rank: 2, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+K: Location = c1 => rank: 1, file: 3
+K: Location = a1 => rank: 1, file: 1
+
+new position
+K: Location = c6 => rank: 6, file: 3
+
+next positions
+K: Location = e7 => rank: 7, file: 5
+K: Location = a7 => rank: 7, file: 1
+K: Location = e5 => rank: 5, file: 5
+K: Location = a5 => rank: 5, file: 1
+K: Location = d8 => rank: 8, file: 4
+K: Location = b8 => rank: 8, file: 2
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = c4 => rank: 4, file: 3
+
+next positions
+K: Location = e5 => rank: 5, file: 5
+K: Location = a5 => rank: 5, file: 1
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = d6 => rank: 6, file: 4
+K: Location = b6 => rank: 6, file: 2
+K: Location = d2 => rank: 2, file: 4
+K: Location = b2 => rank: 2, file: 2
+
+new position
+K: Location = b7 => rank: 7, file: 2
+
+next positions
+K: Location = d8 => rank: 8, file: 4
+K: Location = d6 => rank: 6, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+
+new position
+K: Location = b3 => rank: 3, file: 2
+
+next positions
+K: Location = d4 => rank: 4, file: 4
+K: Location = d2 => rank: 2, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+K: Location = c1 => rank: 1, file: 3
+K: Location = a1 => rank: 1, file: 1
+
+new position
+K: Location = e2 => rank: 2, file: 5
+
+next positions
+K: Location = g3 => rank: 3, file: 7
+K: Location = c3 => rank: 3, file: 3
+K: Location = g1 => rank: 1, file: 7
+K: Location = c1 => rank: 1, file: 3
+K: Location = f4 => rank: 4, file: 6
+K: Location = d4 => rank: 4, file: 4
+
+new position
+K: Location = a2 => rank: 2, file: 1
+
+next positions
+K: Location = c3 => rank: 3, file: 3
+K: Location = c1 => rank: 1, file: 3
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = d3 => rank: 3, file: 4
+
+next positions
+K: Location = f4 => rank: 4, file: 6
+K: Location = b4 => rank: 4, file: 2
+K: Location = f2 => rank: 2, file: 6
+K: Location = b2 => rank: 2, file: 2
+K: Location = e5 => rank: 5, file: 5
+K: Location = c5 => rank: 5, file: 3
+K: Location = e1 => rank: 1, file: 5
+K: Location = c1 => rank: 1, file: 3
+
+new position
+K: Location = b3 => rank: 3, file: 2
+
+next positions
+K: Location = d4 => rank: 4, file: 4
+K: Location = d2 => rank: 2, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+K: Location = c1 => rank: 1, file: 3
+K: Location = a1 => rank: 1, file: 1
+
+new position
+K: Location = c2 => rank: 2, file: 3
+
+next positions
+K: Location = e3 => rank: 3, file: 5
+K: Location = a3 => rank: 3, file: 1
+K: Location = e1 => rank: 1, file: 5
+K: Location = a1 => rank: 1, file: 1
+K: Location = d4 => rank: 4, file: 4
+K: Location = b4 => rank: 4, file: 2
+
+new position
+K: Location = b3 => rank: 3, file: 2
+
+next positions
+K: Location = d4 => rank: 4, file: 4
+K: Location = d2 => rank: 2, file: 4
+K: Location = c5 => rank: 5, file: 3
+K: Location = a5 => rank: 5, file: 1
+K: Location = c1 => rank: 1, file: 3
+K: Location = a1 => rank: 1, file: 1
+
+new position
+K: Location = e5 => rank: 5, file: 5
+
+next positions
+K: Location = g6 => rank: 6, file: 7
+K: Location = c6 => rank: 6, file: 3
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = f7 => rank: 7, file: 6
+K: Location = d7 => rank: 7, file: 4
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = h6 => rank: 6, file: 8
+
+next positions
+K: Location = f7 => rank: 7, file: 6
+K: Location = f5 => rank: 5, file: 6
+K: Location = g8 => rank: 8, file: 7
+K: Location = g4 => rank: 4, file: 7
+
+new position
+K: Location = f6 => rank: 6, file: 6
+
+next positions
+K: Location = h7 => rank: 7, file: 8
+K: Location = d7 => rank: 7, file: 4
+K: Location = h5 => rank: 5, file: 8
+K: Location = d5 => rank: 5, file: 4
+K: Location = g8 => rank: 8, file: 7
+K: Location = e8 => rank: 8, file: 5
+K: Location = g4 => rank: 4, file: 7
+K: Location = e4 => rank: 4, file: 5
+
+new position
+K: Location = h2 => rank: 2, file: 8
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = f1 => rank: 1, file: 6
+K: Location = g4 => rank: 4, file: 7
+
+new position
+K: Location = f2 => rank: 2, file: 6
+
+next positions
+K: Location = h3 => rank: 3, file: 8
+K: Location = d3 => rank: 3, file: 4
+K: Location = h1 => rank: 1, file: 8
+K: Location = d1 => rank: 1, file: 4
+K: Location = g4 => rank: 4, file: 7
+K: Location = e4 => rank: 4, file: 5
+
+new position
+K: Location = e5 => rank: 5, file: 5
+
+next positions
+K: Location = g6 => rank: 6, file: 7
+K: Location = c6 => rank: 6, file: 3
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = f7 => rank: 7, file: 6
+K: Location = d7 => rank: 7, file: 4
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = a5 => rank: 5, file: 1
+
+next positions
+K: Location = c6 => rank: 6, file: 3
+K: Location = c4 => rank: 4, file: 3
+K: Location = b7 => rank: 7, file: 2
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = a3 => rank: 3, file: 1
+
+next positions
+K: Location = c4 => rank: 4, file: 3
+K: Location = c2 => rank: 2, file: 3
+K: Location = b5 => rank: 5, file: 2
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = d6 => rank: 6, file: 4
+
+next positions
+K: Location = f7 => rank: 7, file: 6
+K: Location = b7 => rank: 7, file: 2
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = e8 => rank: 8, file: 5
+K: Location = c8 => rank: 8, file: 3
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = b6 => rank: 6, file: 2
+
+next positions
+K: Location = d7 => rank: 7, file: 4
+K: Location = d5 => rank: 5, file: 4
+K: Location = c8 => rank: 8, file: 3
+K: Location = a8 => rank: 8, file: 1
+K: Location = c4 => rank: 4, file: 3
+K: Location = a4 => rank: 4, file: 1
+
+new position
+K: Location = d2 => rank: 2, file: 4
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = f1 => rank: 1, file: 6
+K: Location = b1 => rank: 1, file: 2
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = b2 => rank: 2, file: 2
+
+next positions
+K: Location = d3 => rank: 3, file: 4
+K: Location = d1 => rank: 1, file: 4
+K: Location = c4 => rank: 4, file: 3
+K: Location = a4 => rank: 4, file: 1
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = e1 => rank: 1, file: 5
+
+next positions
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = h4 => rank: 4, file: 8
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = f3 => rank: 3, file: 6
+K: Location = g6 => rank: 6, file: 7
+K: Location = g2 => rank: 2, file: 7
+
+new position
+K: Location = f4 => rank: 4, file: 6
+
+next positions
+K: Location = h5 => rank: 5, file: 8
+K: Location = d5 => rank: 5, file: 4
+K: Location = h3 => rank: 3, file: 8
+K: Location = d3 => rank: 3, file: 4
+K: Location = g6 => rank: 6, file: 7
+K: Location = e6 => rank: 6, file: 5
+K: Location = g2 => rank: 2, file: 7
+K: Location = e2 => rank: 2, file: 5
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = a3 => rank: 3, file: 1
+
+next positions
+K: Location = c4 => rank: 4, file: 3
+K: Location = c2 => rank: 2, file: 3
+K: Location = b5 => rank: 5, file: 2
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = e1 => rank: 1, file: 5
+
+next positions
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = a1 => rank: 1, file: 1
+
+next positions
+K: Location = c2 => rank: 2, file: 3
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = b4 => rank: 4, file: 2
+
+next positions
+K: Location = d5 => rank: 5, file: 4
+K: Location = d3 => rank: 3, file: 4
+K: Location = c6 => rank: 6, file: 3
+K: Location = a6 => rank: 6, file: 1
+K: Location = c2 => rank: 2, file: 3
+K: Location = a2 => rank: 2, file: 1
+
+new position
+K: Location = h6 => rank: 6, file: 8
+
+next positions
+K: Location = f7 => rank: 7, file: 6
+K: Location = f5 => rank: 5, file: 6
+K: Location = g8 => rank: 8, file: 7
+K: Location = g4 => rank: 4, file: 7
+
+new position
+K: Location = d6 => rank: 6, file: 4
+
+next positions
+K: Location = f7 => rank: 7, file: 6
+K: Location = b7 => rank: 7, file: 2
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = e8 => rank: 8, file: 5
+K: Location = c8 => rank: 8, file: 3
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = h4 => rank: 4, file: 8
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = f3 => rank: 3, file: 6
+K: Location = g6 => rank: 6, file: 7
+K: Location = g2 => rank: 2, file: 7
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = g7 => rank: 7, file: 7
+
+next positions
+K: Location = e8 => rank: 8, file: 5
+K: Location = e6 => rank: 6, file: 5
+K: Location = h5 => rank: 5, file: 8
+K: Location = f5 => rank: 5, file: 6
+
+new position
+K: Location = e7 => rank: 7, file: 5
+
+next positions
+K: Location = g8 => rank: 8, file: 7
+K: Location = c8 => rank: 8, file: 3
+K: Location = g6 => rank: 6, file: 7
+K: Location = c6 => rank: 6, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+
+new position
+K: Location = g3 => rank: 3, file: 7
+
+next positions
+K: Location = e4 => rank: 4, file: 5
+K: Location = e2 => rank: 2, file: 5
+K: Location = h5 => rank: 5, file: 8
+K: Location = f5 => rank: 5, file: 6
+K: Location = h1 => rank: 1, file: 8
+K: Location = f1 => rank: 1, file: 6
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = f6 => rank: 6, file: 6
+
+next positions
+K: Location = h7 => rank: 7, file: 8
+K: Location = d7 => rank: 7, file: 4
+K: Location = h5 => rank: 5, file: 8
+K: Location = d5 => rank: 5, file: 4
+K: Location = g8 => rank: 8, file: 7
+K: Location = e8 => rank: 8, file: 5
+K: Location = g4 => rank: 4, file: 7
+K: Location = e4 => rank: 4, file: 5
+
+new position
+K: Location = b6 => rank: 6, file: 2
+
+next positions
+K: Location = d7 => rank: 7, file: 4
+K: Location = d5 => rank: 5, file: 4
+K: Location = c8 => rank: 8, file: 3
+K: Location = a8 => rank: 8, file: 1
+K: Location = c4 => rank: 4, file: 3
+K: Location = a4 => rank: 4, file: 1
+
+new position
+K: Location = f4 => rank: 4, file: 6
+
+next positions
+K: Location = h5 => rank: 5, file: 8
+K: Location = d5 => rank: 5, file: 4
+K: Location = h3 => rank: 3, file: 8
+K: Location = d3 => rank: 3, file: 4
+K: Location = g6 => rank: 6, file: 7
+K: Location = e6 => rank: 6, file: 5
+K: Location = g2 => rank: 2, file: 7
+K: Location = e2 => rank: 2, file: 5
+
+new position
+K: Location = b4 => rank: 4, file: 2
+
+next positions
+K: Location = d5 => rank: 5, file: 4
+K: Location = d3 => rank: 3, file: 4
+K: Location = c6 => rank: 6, file: 3
+K: Location = a6 => rank: 6, file: 1
+K: Location = c2 => rank: 2, file: 3
+K: Location = a2 => rank: 2, file: 1
+
+new position
+K: Location = e7 => rank: 7, file: 5
+
+next positions
+K: Location = g8 => rank: 8, file: 7
+K: Location = c8 => rank: 8, file: 3
+K: Location = g6 => rank: 6, file: 7
+K: Location = c6 => rank: 6, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+
+new position
+K: Location = c7 => rank: 7, file: 3
+
+next positions
+K: Location = e8 => rank: 8, file: 5
+K: Location = a8 => rank: 8, file: 1
+K: Location = e6 => rank: 6, file: 5
+K: Location = a6 => rank: 6, file: 1
+K: Location = d5 => rank: 5, file: 4
+K: Location = b5 => rank: 5, file: 2
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = c3 => rank: 3, file: 3
+
+next positions
+K: Location = e4 => rank: 4, file: 5
+K: Location = a4 => rank: 4, file: 1
+K: Location = e2 => rank: 2, file: 5
+K: Location = a2 => rank: 2, file: 1
+K: Location = d5 => rank: 5, file: 4
+K: Location = b5 => rank: 5, file: 2
+K: Location = d1 => rank: 1, file: 4
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = h2 => rank: 2, file: 8
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = f1 => rank: 1, file: 6
+K: Location = g4 => rank: 4, file: 7
+
+new position
+K: Location = d2 => rank: 2, file: 4
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = f1 => rank: 1, file: 6
+K: Location = b1 => rank: 1, file: 2
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = g3 => rank: 3, file: 7
+
+next positions
+K: Location = e4 => rank: 4, file: 5
+K: Location = e2 => rank: 2, file: 5
+K: Location = h5 => rank: 5, file: 8
+K: Location = f5 => rank: 5, file: 6
+K: Location = h1 => rank: 1, file: 8
+K: Location = f1 => rank: 1, file: 6
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = f2 => rank: 2, file: 6
+
+next positions
+K: Location = h3 => rank: 3, file: 8
+K: Location = d3 => rank: 3, file: 4
+K: Location = h1 => rank: 1, file: 8
+K: Location = d1 => rank: 1, file: 4
+K: Location = g4 => rank: 4, file: 7
+K: Location = e4 => rank: 4, file: 5
+
+new position
+K: Location = b2 => rank: 2, file: 2
+
+next positions
+K: Location = d3 => rank: 3, file: 4
+K: Location = d1 => rank: 1, file: 4
+K: Location = c4 => rank: 4, file: 3
+K: Location = a4 => rank: 4, file: 1
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = c3 => rank: 3, file: 3
+
+next positions
+K: Location = e4 => rank: 4, file: 5
+K: Location = a4 => rank: 4, file: 1
+K: Location = e2 => rank: 2, file: 5
+K: Location = a2 => rank: 2, file: 1
+K: Location = d5 => rank: 5, file: 4
+K: Location = b5 => rank: 5, file: 2
+K: Location = d1 => rank: 1, file: 4
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = e5 => rank: 5, file: 5
+
+next positions
+K: Location = g6 => rank: 6, file: 7
+K: Location = c6 => rank: 6, file: 3
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = f7 => rank: 7, file: 6
+K: Location = d7 => rank: 7, file: 4
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = a5 => rank: 5, file: 1
+
+next positions
+K: Location = c6 => rank: 6, file: 3
+K: Location = c4 => rank: 4, file: 3
+K: Location = b7 => rank: 7, file: 2
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = a3 => rank: 3, file: 1
+
+next positions
+K: Location = c4 => rank: 4, file: 3
+K: Location = c2 => rank: 2, file: 3
+K: Location = b5 => rank: 5, file: 2
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = d6 => rank: 6, file: 4
+
+next positions
+K: Location = f7 => rank: 7, file: 6
+K: Location = b7 => rank: 7, file: 2
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = e8 => rank: 8, file: 5
+K: Location = c8 => rank: 8, file: 3
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = b6 => rank: 6, file: 2
+
+next positions
+K: Location = d7 => rank: 7, file: 4
+K: Location = d5 => rank: 5, file: 4
+K: Location = c8 => rank: 8, file: 3
+K: Location = a8 => rank: 8, file: 1
+K: Location = c4 => rank: 4, file: 3
+K: Location = a4 => rank: 4, file: 1
+
+new position
+K: Location = d2 => rank: 2, file: 4
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = f1 => rank: 1, file: 6
+K: Location = b1 => rank: 1, file: 2
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = b2 => rank: 2, file: 2
+
+next positions
+K: Location = d3 => rank: 3, file: 4
+K: Location = d1 => rank: 1, file: 4
+K: Location = c4 => rank: 4, file: 3
+K: Location = a4 => rank: 4, file: 1
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = a3 => rank: 3, file: 1
+
+next positions
+K: Location = c4 => rank: 4, file: 3
+K: Location = c2 => rank: 2, file: 3
+K: Location = b5 => rank: 5, file: 2
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = e1 => rank: 1, file: 5
+
+next positions
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = a1 => rank: 1, file: 1
+
+next positions
+K: Location = c2 => rank: 2, file: 3
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = b4 => rank: 4, file: 2
+
+next positions
+K: Location = d5 => rank: 5, file: 4
+K: Location = d3 => rank: 3, file: 4
+K: Location = c6 => rank: 6, file: 3
+K: Location = a6 => rank: 6, file: 1
+K: Location = c2 => rank: 2, file: 3
+K: Location = a2 => rank: 2, file: 1
+
+new position
+K: Location = d6 => rank: 6, file: 4
+
+next positions
+K: Location = f7 => rank: 7, file: 6
+K: Location = b7 => rank: 7, file: 2
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = e8 => rank: 8, file: 5
+K: Location = c8 => rank: 8, file: 3
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = c7 => rank: 7, file: 3
+
+next positions
+K: Location = e8 => rank: 8, file: 5
+K: Location = a8 => rank: 8, file: 1
+K: Location = e6 => rank: 6, file: 5
+K: Location = a6 => rank: 6, file: 1
+K: Location = d5 => rank: 5, file: 4
+K: Location = b5 => rank: 5, file: 2
+
+new position
+K: Location = a7 => rank: 7, file: 1
+
+next positions
+K: Location = c8 => rank: 8, file: 3
+K: Location = c6 => rank: 6, file: 3
+K: Location = b5 => rank: 5, file: 2
+
+new position
+K: Location = c3 => rank: 3, file: 3
+
+next positions
+K: Location = e4 => rank: 4, file: 5
+K: Location = a4 => rank: 4, file: 1
+K: Location = e2 => rank: 2, file: 5
+K: Location = a2 => rank: 2, file: 1
+K: Location = d5 => rank: 5, file: 4
+K: Location = b5 => rank: 5, file: 2
+K: Location = d1 => rank: 1, file: 4
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = a3 => rank: 3, file: 1
+
+next positions
+K: Location = c4 => rank: 4, file: 3
+K: Location = c2 => rank: 2, file: 3
+K: Location = b5 => rank: 5, file: 2
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = d2 => rank: 2, file: 4
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = f1 => rank: 1, file: 6
+K: Location = b1 => rank: 1, file: 2
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = c3 => rank: 3, file: 3
+
+next positions
+K: Location = e4 => rank: 4, file: 5
+K: Location = a4 => rank: 4, file: 1
+K: Location = e2 => rank: 2, file: 5
+K: Location = a2 => rank: 2, file: 1
+K: Location = d5 => rank: 5, file: 4
+K: Location = b5 => rank: 5, file: 2
+K: Location = d1 => rank: 1, file: 4
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = a3 => rank: 3, file: 1
+
+next positions
+K: Location = c4 => rank: 4, file: 3
+K: Location = c2 => rank: 2, file: 3
+K: Location = b5 => rank: 5, file: 2
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = e1 => rank: 1, file: 5
+
+next positions
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = h4 => rank: 4, file: 8
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = f3 => rank: 3, file: 6
+K: Location = g6 => rank: 6, file: 7
+K: Location = g2 => rank: 2, file: 7
+
+new position
+K: Location = f4 => rank: 4, file: 6
+
+next positions
+K: Location = h5 => rank: 5, file: 8
+K: Location = d5 => rank: 5, file: 4
+K: Location = h3 => rank: 3, file: 8
+K: Location = d3 => rank: 3, file: 4
+K: Location = g6 => rank: 6, file: 7
+K: Location = e6 => rank: 6, file: 5
+K: Location = g2 => rank: 2, file: 7
+K: Location = e2 => rank: 2, file: 5
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = a3 => rank: 3, file: 1
+
+next positions
+K: Location = c4 => rank: 4, file: 3
+K: Location = c2 => rank: 2, file: 3
+K: Location = b5 => rank: 5, file: 2
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = e1 => rank: 1, file: 5
+
+next positions
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = a1 => rank: 1, file: 1
+
+next positions
+K: Location = c2 => rank: 2, file: 3
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = b4 => rank: 4, file: 2
+
+next positions
+K: Location = d5 => rank: 5, file: 4
+K: Location = d3 => rank: 3, file: 4
+K: Location = c6 => rank: 6, file: 3
+K: Location = a6 => rank: 6, file: 1
+K: Location = c2 => rank: 2, file: 3
+K: Location = a2 => rank: 2, file: 1
+
+new position
+K: Location = h4 => rank: 4, file: 8
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = f3 => rank: 3, file: 6
+K: Location = g6 => rank: 6, file: 7
+K: Location = g2 => rank: 2, file: 7
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = h2 => rank: 2, file: 8
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = f1 => rank: 1, file: 6
+K: Location = g4 => rank: 4, file: 7
+
+new position
+K: Location = d2 => rank: 2, file: 4
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = f1 => rank: 1, file: 6
+K: Location = b1 => rank: 1, file: 2
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = g5 => rank: 5, file: 7
+
+next positions
+K: Location = e6 => rank: 6, file: 5
+K: Location = e4 => rank: 4, file: 5
+K: Location = h7 => rank: 7, file: 8
+K: Location = f7 => rank: 7, file: 6
+K: Location = h3 => rank: 3, file: 8
+K: Location = f3 => rank: 3, file: 6
+
+new position
+K: Location = e5 => rank: 5, file: 5
+
+next positions
+K: Location = g6 => rank: 6, file: 7
+K: Location = c6 => rank: 6, file: 3
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = f7 => rank: 7, file: 6
+K: Location = d7 => rank: 7, file: 4
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = g1 => rank: 1, file: 7
+
+next positions
+K: Location = e2 => rank: 2, file: 5
+K: Location = h3 => rank: 3, file: 8
+K: Location = f3 => rank: 3, file: 6
+
+new position
+K: Location = e1 => rank: 1, file: 5
+
+next positions
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = f4 => rank: 4, file: 6
+
+next positions
+K: Location = h5 => rank: 5, file: 8
+K: Location = d5 => rank: 5, file: 4
+K: Location = h3 => rank: 3, file: 8
+K: Location = d3 => rank: 3, file: 4
+K: Location = g6 => rank: 6, file: 7
+K: Location = e6 => rank: 6, file: 5
+K: Location = g2 => rank: 2, file: 7
+K: Location = e2 => rank: 2, file: 5
+
+new position
+K: Location = b4 => rank: 4, file: 2
+
+next positions
+K: Location = d5 => rank: 5, file: 4
+K: Location = d3 => rank: 3, file: 4
+K: Location = c6 => rank: 6, file: 3
+K: Location = a6 => rank: 6, file: 1
+K: Location = c2 => rank: 2, file: 3
+K: Location = a2 => rank: 2, file: 1
+
+new position
+K: Location = f2 => rank: 2, file: 6
+
+next positions
+K: Location = h3 => rank: 3, file: 8
+K: Location = d3 => rank: 3, file: 4
+K: Location = h1 => rank: 1, file: 8
+K: Location = d1 => rank: 1, file: 4
+K: Location = g4 => rank: 4, file: 7
+K: Location = e4 => rank: 4, file: 5
+
+new position
+K: Location = b2 => rank: 2, file: 2
+
+next positions
+K: Location = d3 => rank: 3, file: 4
+K: Location = d1 => rank: 1, file: 4
+K: Location = c4 => rank: 4, file: 3
+K: Location = a4 => rank: 4, file: 1
+
+new position
+K: Location = e5 => rank: 5, file: 5
+
+next positions
+K: Location = g6 => rank: 6, file: 7
+K: Location = c6 => rank: 6, file: 3
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = f7 => rank: 7, file: 6
+K: Location = d7 => rank: 7, file: 4
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = c5 => rank: 5, file: 3
+
+next positions
+K: Location = e6 => rank: 6, file: 5
+K: Location = a6 => rank: 6, file: 1
+K: Location = e4 => rank: 4, file: 5
+K: Location = a4 => rank: 4, file: 1
+K: Location = d7 => rank: 7, file: 4
+K: Location = b7 => rank: 7, file: 2
+K: Location = d3 => rank: 3, file: 4
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = e1 => rank: 1, file: 5
+
+next positions
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = c1 => rank: 1, file: 3
+
+next positions
+K: Location = e2 => rank: 2, file: 5
+K: Location = a2 => rank: 2, file: 1
+K: Location = d3 => rank: 3, file: 4
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = a3 => rank: 3, file: 1
+
+next positions
+K: Location = c4 => rank: 4, file: 3
+K: Location = c2 => rank: 2, file: 3
+K: Location = b5 => rank: 5, file: 2
+K: Location = b1 => rank: 1, file: 2
+
+new position
+K: Location = e1 => rank: 1, file: 5
+
+next positions
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f3 => rank: 3, file: 6
+K: Location = d3 => rank: 3, file: 4
+
+new position
+K: Location = a1 => rank: 1, file: 1
+
+next positions
+K: Location = c2 => rank: 2, file: 3
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = b4 => rank: 4, file: 2
+
+next positions
+K: Location = d5 => rank: 5, file: 4
+K: Location = d3 => rank: 3, file: 4
+K: Location = c6 => rank: 6, file: 3
+K: Location = a6 => rank: 6, file: 1
+K: Location = c2 => rank: 2, file: 3
+K: Location = a2 => rank: 2, file: 1
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = d2 => rank: 2, file: 4
+
+next positions
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = f1 => rank: 1, file: 6
+K: Location = b1 => rank: 1, file: 2
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = c5 => rank: 5, file: 3
+
+next positions
+K: Location = e6 => rank: 6, file: 5
+K: Location = a6 => rank: 6, file: 1
+K: Location = e4 => rank: 4, file: 5
+K: Location = a4 => rank: 4, file: 1
+K: Location = d7 => rank: 7, file: 4
+K: Location = b7 => rank: 7, file: 2
+K: Location = d3 => rank: 3, file: 4
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = a5 => rank: 5, file: 1
+
+next positions
+K: Location = c6 => rank: 6, file: 3
+K: Location = c4 => rank: 4, file: 3
+K: Location = b7 => rank: 7, file: 2
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = c1 => rank: 1, file: 3
+
+next positions
+K: Location = e2 => rank: 2, file: 5
+K: Location = a2 => rank: 2, file: 1
+K: Location = d3 => rank: 3, file: 4
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = a1 => rank: 1, file: 1
+
+next positions
+K: Location = c2 => rank: 2, file: 3
+K: Location = b3 => rank: 3, file: 2
+
+new position
+K: Location = h6 => rank: 6, file: 8
+
+next positions
+K: Location = f7 => rank: 7, file: 6
+K: Location = f5 => rank: 5, file: 6
+K: Location = g8 => rank: 8, file: 7
+K: Location = g4 => rank: 4, file: 7
+
+new position
+K: Location = d6 => rank: 6, file: 4
+
+next positions
+K: Location = f7 => rank: 7, file: 6
+K: Location = b7 => rank: 7, file: 2
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = e8 => rank: 8, file: 5
+K: Location = c8 => rank: 8, file: 3
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = h4 => rank: 4, file: 8
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = f3 => rank: 3, file: 6
+K: Location = g6 => rank: 6, file: 7
+K: Location = g2 => rank: 2, file: 7
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = g7 => rank: 7, file: 7
+
+next positions
+K: Location = e8 => rank: 8, file: 5
+K: Location = e6 => rank: 6, file: 5
+K: Location = h5 => rank: 5, file: 8
+K: Location = f5 => rank: 5, file: 6
+
+new position
+K: Location = e7 => rank: 7, file: 5
+
+next positions
+K: Location = g8 => rank: 8, file: 7
+K: Location = c8 => rank: 8, file: 3
+K: Location = g6 => rank: 6, file: 7
+K: Location = c6 => rank: 6, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+
+new position
+K: Location = g3 => rank: 3, file: 7
+
+next positions
+K: Location = e4 => rank: 4, file: 5
+K: Location = e2 => rank: 2, file: 5
+K: Location = h5 => rank: 5, file: 8
+K: Location = f5 => rank: 5, file: 6
+K: Location = h1 => rank: 1, file: 8
+K: Location = f1 => rank: 1, file: 6
+
+new position
+K: Location = e3 => rank: 3, file: 5
+
+next positions
+K: Location = g4 => rank: 4, file: 7
+K: Location = c4 => rank: 4, file: 3
+K: Location = g2 => rank: 2, file: 7
+K: Location = c2 => rank: 2, file: 3
+K: Location = f5 => rank: 5, file: 6
+K: Location = d5 => rank: 5, file: 4
+K: Location = f1 => rank: 1, file: 6
+K: Location = d1 => rank: 1, file: 4
+
+new position
+K: Location = d6 => rank: 6, file: 4
+
+next positions
+K: Location = f7 => rank: 7, file: 6
+K: Location = b7 => rank: 7, file: 2
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = e8 => rank: 8, file: 5
+K: Location = c8 => rank: 8, file: 3
+K: Location = e4 => rank: 4, file: 5
+K: Location = c4 => rank: 4, file: 3
+
+new position
+K: Location = d4 => rank: 4, file: 4
+
+next positions
+K: Location = f5 => rank: 5, file: 6
+K: Location = b5 => rank: 5, file: 2
+K: Location = f3 => rank: 3, file: 6
+K: Location = b3 => rank: 3, file: 2
+K: Location = e6 => rank: 6, file: 5
+K: Location = c6 => rank: 6, file: 3
+K: Location = e2 => rank: 2, file: 5
+K: Location = c2 => rank: 2, file: 3
+
+new position
+K: Location = c7 => rank: 7, file: 3
+
+next positions
+K: Location = e8 => rank: 8, file: 5
+K: Location = a8 => rank: 8, file: 1
+K: Location = e6 => rank: 6, file: 5
+K: Location = a6 => rank: 6, file: 1
+K: Location = d5 => rank: 5, file: 4
+K: Location = b5 => rank: 5, file: 2
+
+new position
+K: Location = a7 => rank: 7, file: 1
+
+next positions
+K: Location = c8 => rank: 8, file: 3
+K: Location = c6 => rank: 6, file: 3
+K: Location = b5 => rank: 5, file: 2
+
+new position
+K: Location = c3 => rank: 3, file: 3
+
+next positions
+K: Location = e4 => rank: 4, file: 5
+K: Location = a4 => rank: 4, file: 1
+K: Location = e2 => rank: 2, file: 5
+K: Location = a2 => rank: 2, file: 1
+K: Location = d5 => rank: 5, file: 4
+K: Location = b5 => rank: 5, file: 2
