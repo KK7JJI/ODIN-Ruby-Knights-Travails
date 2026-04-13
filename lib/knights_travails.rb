@@ -1,6 +1,14 @@
 # frozen_string_literal: true
 
 require_relative 'knights_travails/app'
+require_relative 'knights_travails/queue'
+require_relative 'knights_travails/node'
+require_relative 'knights_travails/visited'
+require_relative 'knights_travails/bfs'
+require_relative 'knights_travails/position'
+require_relative 'knights_travails/piece'
+require_relative 'knights_travails/knight'
+require_relative 'knights_travails/board'
 
 # namespace for the project.
 module KnightsTravails
