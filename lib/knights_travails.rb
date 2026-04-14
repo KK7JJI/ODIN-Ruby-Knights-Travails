@@ -21,4 +21,4 @@ module KnightsTravails
 end
 
 # Start the program if this file is executed directly
-KnightsTravails.run(ARGV)
+KnightsTravails.run(ARGV) if __FILE__ == $0
